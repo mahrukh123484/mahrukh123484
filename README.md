@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif...">
 
-- 🔭 I’m currently working on **a website online payment of fees**
+- 🔭 I’m currently working on **a project online payment of fees**
 
 - 🌱 I’m currently learning **Python, Html, CSS**
 
